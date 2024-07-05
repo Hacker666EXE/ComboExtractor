@@ -33,4 +33,3 @@ node combo.js
 ## Autor
 
 - zBLACKHAT
-- Pentestsec777@gmail.com 
