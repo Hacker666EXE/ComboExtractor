@@ -34,4 +34,4 @@ node combo.js
 
 - zBLACKHAT
 
-![ComboExtractor](ComboExtractor.mp4)
+![ComboExtractor](ComboExtractor.gif)
